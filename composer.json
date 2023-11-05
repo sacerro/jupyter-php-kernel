@@ -4,8 +4,8 @@
     "license": "MIT",
     "require": {
         "ext-zmq": "*",
-        "psy/psysh": "^0.10.5",
-        "ramsey/uuid": "^4.1",
+        "psy/psysh": "^0.11.22",
+        "ramsey/uuid": "^4.7.4",
         "react/zmq": "^0.4.0"
     },
     "require-dev": {
